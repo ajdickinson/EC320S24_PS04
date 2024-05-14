@@ -1,6 +1,6 @@
 # PS04
 
-The following directory contains files for Problem Set 04 for EC320: Introduction to Econometerics.
+The following directory contains files for Problem Set 04 for EC320: Introduction to Econometerics Spring 2024 at the University of Oregon. You can find the main repository for the course [here](https://www.github.com/ajdickinson/EC320S24)
 
 
 ## Instructions
