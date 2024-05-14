@@ -9,13 +9,17 @@ First, download the repository by downloading the zip file from the green "Code"
 
 Navigate to the `Files` tab in the bottom right panel of RStudio. You should see the following files:
 
+```
 .
 ├── EC320S24_PS04.Rproj
 ├── R
-│   ├── PS04.Rmd
+│   └── PS04.Rmd
 └── README.md
 
-The assignment can be found in the `PS04.Rmd` file. 
+2 directories, 3 files
+```
+
+2 directories, 3 filesThe assignment can be found in the `PS04.Rmd` file. 
 
 
 #### [Data]{.hi}
